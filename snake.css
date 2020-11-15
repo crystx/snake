@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+.snakegame {
+    text-align: center;
+    margin: 50px;
+    position: relative;
+}
+
+p {
+    color: white;
+    text-align: center;
+    margin: 0;
+    position: relative;
+}
